@@ -1,0 +1,11 @@
+```txt
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+tensorflow
+torch
+kneed
+jupyter
